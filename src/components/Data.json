@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Hoàng Quốc Khánh",
+        "phone": "0983 483 698",
+        "permission": 0
+    },
+    {
+        "id": 2,
+        "name": "Hoàng Thanh Tùng",
+        "phone": "0973 483 668",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Nguyễn Phương Hoa",
+        "phone": "0283 475 988",
+        "permission": 1
+    },
+    {
+        "id": 4,
+        "name": "Phùng Thị Ánh",
+        "phone": "0383 433 646",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Lê Phương Nam",
+        "phone": "0913 869 627",
+        "permission": 0
+    },
+    {
+        "id": 6,
+        "name": "Lê Tuấn Anh",
+        "phone": "0974 413 629",
+        "permission": 2
+    },
+    {
+        "id": 7,
+        "name": "Nguyễn Thảo Phương",
+        "phone": "0455 873 638",
+        "permission": 1
+    },
+    {
+        "id": 8,
+        "name": "Bùi Thế Cường",
+        "phone": "0893 834 8686",
+        "permission": 0
+    },
+    {
+        "id": 9,
+        "name": "Phùng Giang Linh",
+        "phone": "0983 483 698",
+        "permission": 1
+    },
+    {
+        "id": 10,
+        "name": "Nông Đức Phong",
+        "phone": "0373 657 697",
+        "permission": 2
+    }
+]
